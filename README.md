@@ -17,7 +17,7 @@ Always exploring new technologies and refining expertise.
 🎯 Challenge-Driven  
 Motivated to solve complex problems and drive innovation.  
 
-📬 Let’s Connect!  
+### 📬 **LET’S CONNECT!**  
 Open to collaborations, discussions, and exciting opportunities.  
 
 📧 Email: rafal13996@gmail.com  

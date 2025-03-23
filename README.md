@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafalgi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafalgi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafalgi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafalgi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2gyaWdkdTVsM3p1Y2xhMDZmbWJlN2o1Z2xsaDYxNzhmaDRsbXJuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XO8RMtRaK73isIt0i2/giphy.webp"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2gyaWdkdTVsM3p1Y2xhMDZmbWJlN2o1Z2xsaDYxNzhmaDRsbXJuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XO8RMtRaK73isIgXqQ/giphy.gif"  />
 
 ###
 
@@ -52,3 +52,15 @@
 <img src="https://raw.githubusercontent.com/rafalgi/rafalgi/output/snake.svg" alt="Snake animation" />
 
 ###
+
+💻 AI & Data Science Enthusiast – Passionate about artificial intelligence, machine learning, and data-driven solutions.
+📊 Strong Analytical & Programming Skills – Experienced in data analysis, predictive modeling, and algorithm development.
+🤝 Independent & Collaborative – Adaptable to both solo projects and teamwork environments.
+🚀 Continuous Learner – Always exploring new technologies and refining expertise.
+🎯 Challenge-Driven – Motivated to solve complex problems and drive innovation.
+
+📬 Let’s Connect!
+Open to collaborations, discussions, and exciting opportunities.
+
+📧 Email: rafal13996@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/rafa%C5%82-giba%C5%82a-b7807a29a/

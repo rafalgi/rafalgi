@@ -2,18 +2,28 @@
 
 ###
 
-💻 AI & Data Science Enthusiast – Passionate about artificial intelligence, machine learning, and data-driven solutions.
-📊 Strong Analytical & Programming Skills – Experienced in data analysis, predictive modeling, and algorithm development.
-🤝 Independent & Collaborative – Adaptable to both solo projects and teamwork environments.
-🚀 Continuous Learner – Always exploring new technologies and refining expertise.
-🎯 Challenge-Driven – Motivated to solve complex problems and drive innovation.
+💻 AI & Data Science Enthusiast  
+Passionate about artificial intelligence, machine learning, and data-driven solutions.  
 
-📬 Let’s Connect!
-Open to collaborations, discussions, and exciting opportunities.
+📊 Strong Analytical & Programming Skills  
+Experienced in data analysis, predictive modeling, and algorithm development.  
 
-📧 Email: rafal13996@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/rafa%C5%82-giba%C5%82a-b7807a29a/
+🤝 Independent & Collaborative  
+Adaptable to both solo projects and teamwork environments.  
+
+🚀 Continuous Learner  
+Always exploring new technologies and refining expertise.  
+
+🎯 Challenge-Driven  
+Motivated to solve complex problems and drive innovation.  
+
+📬 Let’s Connect!  
+Open to collaborations, discussions, and exciting opportunities.  
+
+📧 Email: rafal13996@gmail.com  
+
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafalgi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" alt="GitHub Stats" />

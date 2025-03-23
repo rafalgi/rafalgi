@@ -1,5 +1,17 @@
 <h2 align="left">Hi 👋! My name is Rafał and I'm a from Poland</h2>
+###
 
+💻 AI & Data Science Enthusiast – Passionate about artificial intelligence, machine learning, and data-driven solutions.
+📊 Strong Analytical & Programming Skills – Experienced in data analysis, predictive modeling, and algorithm development.
+🤝 Independent & Collaborative – Adaptable to both solo projects and teamwork environments.
+🚀 Continuous Learner – Always exploring new technologies and refining expertise.
+🎯 Challenge-Driven – Motivated to solve complex problems and drive innovation.
+
+📬 Let’s Connect!
+Open to collaborations, discussions, and exciting opportunities.
+
+📧 Email: rafal13996@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/rafa%C5%82-giba%C5%82a-b7807a29a/
 ###
 
 <div align="center">
@@ -51,16 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/rafalgi/rafalgi/output/snake.svg" alt="Snake animation" />
 
-###
 
-💻 AI & Data Science Enthusiast – Passionate about artificial intelligence, machine learning, and data-driven solutions.
-📊 Strong Analytical & Programming Skills – Experienced in data analysis, predictive modeling, and algorithm development.
-🤝 Independent & Collaborative – Adaptable to both solo projects and teamwork environments.
-🚀 Continuous Learner – Always exploring new technologies and refining expertise.
-🎯 Challenge-Driven – Motivated to solve complex problems and drive innovation.
-
-📬 Let’s Connect!
-Open to collaborations, discussions, and exciting opportunities.
-
-📧 Email: rafal13996@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/rafa%C5%82-giba%C5%82a-b7807a29a/

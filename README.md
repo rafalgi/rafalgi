@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Rafał and I'm a from Poland</h2>
+
 ###
 
 💻 AI & Data Science Enthusiast – Passionate about artificial intelligence, machine learning, and data-driven solutions.

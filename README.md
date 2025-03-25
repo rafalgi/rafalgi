@@ -17,6 +17,9 @@ Always exploring new technologies and refining expertise.
 🎯 Challenge-Driven  
 Motivated to solve complex problems and drive innovation.  
 
+🤖 Exploring LLMs, RAG & LangChain
+Currently developing expertise in Large Language Models, Retrieval-Augmented Generation, and LangChain to build advanced AI-driven applications.
+
 ### 📬 **LET’S CONNECT!**  
 Open to collaborations, discussions, and exciting opportunities.  
 

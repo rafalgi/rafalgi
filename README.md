@@ -54,7 +54,3 @@ langchain langgraph huggingface qdrant faiss ollama rag
 ### 🔗 Socials
 
 linkedin logo [github logo](https://github.com/rafalgi) [kaggle logo](https://www.kaggle.com/rafaaell) gmail logo
-
-### 
-
-Snake animation 

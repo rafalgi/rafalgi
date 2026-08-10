@@ -53,4 +53,4 @@ langchain langgraph huggingface qdrant faiss ollama rag
 
 ### 🔗 Socials
 
-linkedin logo [github](https://github.com/rafalgi) [kaggle](https://www.kaggle.com/rafaaell) gmail logo
+linkedin logo [github](https://github.com/rafalgi) [kaggle](https://www.kaggle.com/rafaaell)  
